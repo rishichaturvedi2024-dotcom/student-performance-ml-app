@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# Node
+node_modules/
+build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
